@@ -1,7 +1,7 @@
 url: https://beta.riddlestory.com/api/version
-status: down
-code: 502
-responseTime: 364
-lastUpdated: 2024-04-30T04:46:53.966Z
+status: up
+code: 200
+responseTime: 443
+lastUpdated: 2024-04-30T04:53:25.421Z
 startTime: 2024-04-30T04:27:22.535Z
 generator: Upptime <https://github.com/upptime/upptime>
