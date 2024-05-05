@@ -4,18 +4,20 @@
     "url": "https://play.riddlestory.com/api/version",
     "icon": "https://icons.duckduckgo.com/ip3/play.riddlestory.com.ico",
     "slug": "riddle-story-backend-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 476,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {}
+    "time": 440,
+    "timeDay": 449,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
+    "dailyMinutesDown": {
+      "2024-05-05": 0
+    }
   },
   {
     "name": "RiddleStory Backend Demo",
